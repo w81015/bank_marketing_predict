@@ -1,4 +1,4 @@
-[English Version](README.md)
+[English Version 英文版](README.md)
 # 銀行市場營銷策略分析
 
 ## 檔案簡介

@@ -1,4 +1,4 @@
-[中文版本](README_zh.md)
+[中文版 Chinese version](README_zh.md)
 # Bank Marketing Strategy Analysis
 
 ## Project Introduction
